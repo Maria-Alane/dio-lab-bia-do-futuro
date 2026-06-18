@@ -1,0 +1,22 @@
+{
+  "risco": {
+    "explicacao": "Possibilidade de perdas ou variações no valor de um investimento.",
+    "analogia": "Como dirigir em alta velocidade: pode chegar mais rápido, mas com mais risco.",
+    "relacao": "Maior risco geralmente está associado a maior potencial de retorno."
+  },
+  "liquidez": {
+    "explicacao": "Facilidade de transformar um investimento em dinheiro.",
+    "analogia": "Dinheiro na conta é mais líquido do que um imóvel.",
+    "relacao": "Quanto maior a liquidez, mais fácil acessar o dinheiro."
+  },
+  "diversificacao": {
+    "explicacao": "Distribuição dos investimentos entre diferentes tipos de ativos.",
+    "analogia": "Não colocar todos os ovos na mesma cesta.",
+    "relacao": "Ajuda a reduzir riscos."
+  },
+  "rentabilidade": {
+    "explicacao": "Retorno que um investimento pode gerar ao longo do tempo.",
+    "analogia": "O quanto seu dinheiro cresce com o tempo.",
+    "relacao": "Maior retorno geralmente envolve maior risco."
+  }
+}

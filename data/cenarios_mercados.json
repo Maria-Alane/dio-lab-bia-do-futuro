@@ -1,0 +1,14 @@
+{
+  "juros_altos": {
+    "explicacao": "A taxa de juros da economia está elevada.",
+    "impacto_renda_fixa": "Investimentos de renda fixa tendem a oferecer retornos mais altos.",
+    "impacto_renda_variavel": "Pode haver pressão negativa sobre ações.",
+    "contexto": "Investidores tendem a priorizar segurança."
+  },
+  "juros_baixos": {
+    "explicacao": "A taxa de juros da economia está reduzida.",
+    "impacto_renda_fixa": "Menor rentabilidade na renda fixa.",
+    "impacto_renda_variavel": "Pode favorecer investimentos mais arriscados.",
+    "contexto": "Busca por maior retorno."
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "liquidez": "alta",
+    "rentabilidade": "100% da Selic",
+    "explicacao": "Título público que acompanha a taxa básica de juros da economia.",
+    "quando_faz_sentido": "Quando o objetivo é segurança e liquidez",
+    "ponto_atencao": "Pode render menos em cenários de juros baixos"
+  },
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "liquidez": "alta",
+    "rentabilidade": "aproximadamente 100% a 102% do CDI",
+    "explicacao": "Título emitido por bancos para captação de recursos.",
+    "quando_faz_sentido": "Quando se busca segurança com possibilidade de resgate rápido",
+    "ponto_atencao": "Depende da saúde financeira do banco emissor"
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "liquidez": "baixa a média",
+    "rentabilidade": "percentual do CDI",
+    "explicacao": "Títulos isentos de imposto de renda voltados para setores imobiliário e do agronegócio.",
+    "quando_faz_sentido": "Quando o investidor pode deixar o dinheiro aplicado por um prazo mínimo",
+    "ponto_atencao": "Pode ter carência para resgate"
+  },
+  {
+    "nome": "Fundo Multimercado",
+    "categoria": "fundo",
+    "risco": "medio",
+    "liquidez": "variável",
+    "rentabilidade": "CDI + variação",
+    "explicacao": "Fundo que investe em diferentes classes de ativos.",
+    "quando_faz_sentido": "Quando se busca diversificação",
+    "ponto_atencao": "Pode apresentar oscilações no curto prazo"
+  },
+  {
+    "nome": "Fundo de Ações",
+    "categoria": "fundo",
+    "risco": "alto",
+    "liquidez": "média",
+    "rentabilidade": "variável",
+    "explicacao": "Fundo que investe majoritariamente em ações.",
+    "quando_faz_sentido": "Quando há foco no longo prazo",
+    "ponto_atencao": "Alta volatilidade"
+  }
+]
